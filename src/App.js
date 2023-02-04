@@ -9,6 +9,7 @@ import Service from './Components/Service';
 import Team from './Components/Team';
 import Pricing from './Components/Pricing';
 import Footer from './Components/Footer';
+import State from './Components/State';
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
     <div className="App">
       <Header />
       <Hero />
+      <State />
       <Clients />
       <About />
       <WhyUS />

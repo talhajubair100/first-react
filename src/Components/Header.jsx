@@ -19,6 +19,7 @@ function Header() {
                 <li><a class="nav-link scrollto" href="#services">Services</a></li>
                 <li><a class="nav-link scrollto" href="#team">Team</a></li>
                 <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
+            
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav>
