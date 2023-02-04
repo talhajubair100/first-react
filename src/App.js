@@ -10,6 +10,7 @@ import Team from './Components/Team';
 import Pricing from './Components/Pricing';
 import Footer from './Components/Footer';
 import State from './Components/State';
+import UseEffect from './Components/useEffect';
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
       <Skill />
       <Service />
       <Team />
+      <UseEffect />
       <Pricing />
       <Footer />
 
